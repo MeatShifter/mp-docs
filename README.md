@@ -6,7 +6,7 @@
 <a href="https://mpdemo.netlify.app">Demo</a>
 </div>
 
-<h1 align="center">MagicPuddle - Documentation</h1>
+<h1 align="center">💧 MagicPuddle 💧 </h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/meatshifter/mp-docs?color=56BEB8">
@@ -24,11 +24,9 @@
   <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/mp-docs?color=56BEB8" />
 </p>
 
-  <img alt="" src="" />
-
 <!-- Status -->
 
-<h4 align="center">🚧  MagicPuddle - Documentation 🚀 Under construction...  🚧</h4>
+<h4 align="center">🚧 🚀 Under construction...  🚧</h4>
 
 <hr>
 
@@ -51,10 +49,11 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a7426675-92c3-44be-ac69-45bb447d2bbf/deploy-status)](https://app.netlify.com/sites/mpgo/deploys) &#xa0;
 [![newsBadge](magicpuddle.netlify.app/news) &#xa0;
 [![buildBadge](magicpuddle.netlify.app/news) &#xa0;
-[![comitsBadge](magicpuddle.netlify.app/news) &#xa0;
+[![commitsBadge](magicpuddle.netlify.app/news) &#xa0;
 [![newsBadge](magicpuddle.netlify.app/news)
 
 ### Blog Post
+
     Here
 
 &#xa0;
@@ -62,34 +61,9 @@
 ## :dart: About
 
 Documentation for the MagicPuddle and the technologies it uses. \
-\
-We used [this](https://github.com/DavidAnson/markdownlint/blob/v0.23.1/doc/Rules.md) markdown linter and the corresponding [Visual Studio Code plugin](https://code.visualstudio.com/) plugin.
-Thanks to its creator for making this handy productivity tool.
 
-## :sparkles: Install
-
-* [Documentation](https://magicpuddle.netlify.app/docs)
-* [Operating System](https://magicpuddle.netlify.app/docs/install/install-mpos.md)
-* [App](https://magicpuddle.netlify.app/docs/install/install-app.md)
-* [Misc](misc.md)
 
 &#xa0;
-
-## :rocket: Technologies
-
-The following tools were used in this project:
-
-- [Arch]()
-
-TODO change workstation base to Arch Linux official.
-
-- [Garuda]() workstations
-
-<i class="fa fas-node"></i>
-[Node.js](https://nodejs.org/en/)
-[React](https://pt-br.reactjs.org/)
-[React Native](https://reactnative.dev/)
-[TypeScript](https://www.typescriptlang.org/)
 
 ## :white_check_mark: Requirements
 
@@ -99,29 +73,51 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ## :checkered_flag: Starting
 
-```bash
-# Clone this project
-$ git clone https://github.com/meatshifter/mp-docs
+    # Clone this project
+    git clone https://github.com/meatshifter/magicpuddle.git
 
-# Access
-$ cd mp-docs
+    # Access
+    cd mp-docs
 
-# Install dependencies
-$ yarn
+    # Install dependencies
+    yarn
 
-# Run the project
-$ yarn start
+    # Run the project
+    yarn start
 
-# The server will initialize in the <http://localhost:3000>
-```
+    # The server will initialize in the <http://localhost:3000>
 
 &#xa0;
 
-## :memo: License ##
+## :rocket: Technologies
+
+The following tools were used in this project:
+
+- [Servers]()
+
+- []() workstations
+
+[Node.js](https://nodejs.org/en/)
+[React](https://pt-br.reactjs.org/)
+[React Native](https://reactnative.dev/)
+[TypeScript](https://www.typescriptlang.org/)
+
+&#xa0;
+
+## :sparkles: Install
+
+- [Documentation](https://magicpuddle.netlify.app/docs)
+- [Operating System](https://magicpuddle.netlify.app/docs/install/install-mpos.md)
+- [App](https://magicpuddle.netlify.app/docs/install/install-app.md)
+- [Misc](misc.md)
+
+&#xa0;
+
+## :memo: License
 
 This project is under one or more of the following licenses.
 
-MIT [LICENSE](LICENSE.md)
+[]()
 
 &#xa0;
 
