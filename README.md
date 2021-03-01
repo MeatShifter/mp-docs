@@ -6,9 +6,8 @@
 <a href="https://mpdemo.netlify.app">Demo</a>
 </div>
 
-<<<<<<< HEAD
 <h1 align="center">💧 MagicPuddle 💧 </h1>
-=======
+
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/meatshifter/mp-docs?color=56BEB8">
 
@@ -27,11 +26,8 @@
 
 <!-- Status -->
 
-<<<<<<< HEAD
+
 <h4 align="center">🚧 🚀 Under construction...  🚧</h4>
-=======
-<h4 align="center">🚧  MagicPuddle 🚀 Under construction...  🚧</h4>
->>>>>>> b0e3978f3fb074e5917dc6129da7924d6ab7c0ff
 
 <hr>
 
